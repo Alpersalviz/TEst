@@ -1,0 +1,22 @@
+﻿<Properties StartupConfiguration="{DA84FC51-78AC-4206-98C4-CF8A619D827D}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="ExampleProject.xUnit/UnitTest1.cs">
+    <Files>
+      <File FileName="ExampleProject/Program.cs" Line="57" Column="2" />
+      <File FileName="ExampleProject/Models/Campaign.cs" Line="2" Column="28" />
+      <File FileName="ExampleProject/Models/Category.cs" Line="27" Column="1" />
+      <File FileName="ExampleProject/Models/Coupon.cs" Line="22" Column="1" />
+      <File FileName="ExampleProject/Models/ShoppingCart.cs" Line="106" Column="9" />
+      <File FileName="ExampleProject/Models/DeliveryCostCalculator.cs" Line="1" Column="1" />
+      <File FileName="ExampleProject/Models/ShoppingCartItem.cs" Line="15" Column="38" />
+      <File FileName="ExampleProject/Models/Product.cs" Line="4" Column="18" />
+      <File FileName="ExampleProject.xUnit/UnitTest1.cs" Line="63" Column="2" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.ExampleProject PreferredExecutionTarget="MonoDevelop.Default" />
+  <MultiItemStartupConfigurations />
+</Properties>

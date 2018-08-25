@@ -1,0 +1,11 @@
+/Users/admin/Desktop/trendyol/server/ExampleProject/ExampleProject/obj/Debug/netcoreapp2.0/ExampleProject.csprojResolveAssemblyReference.cache
+/Users/admin/Desktop/trendyol/server/ExampleProject/ExampleProject/obj/Debug/netcoreapp2.0/ExampleProject.csproj.CoreCompileInputs.cache
+/Users/admin/Desktop/trendyol/server/ExampleProject/ExampleProject/obj/Debug/netcoreapp2.0/ExampleProject.AssemblyInfoInputs.cache
+/Users/admin/Desktop/trendyol/server/ExampleProject/ExampleProject/obj/Debug/netcoreapp2.0/ExampleProject.AssemblyInfo.cs
+/Users/admin/Desktop/trendyol/server/ExampleProject/ExampleProject/bin/Debug/netcoreapp2.0/ExampleProject.deps.json
+/Users/admin/Desktop/trendyol/server/ExampleProject/ExampleProject/bin/Debug/netcoreapp2.0/ExampleProject.runtimeconfig.json
+/Users/admin/Desktop/trendyol/server/ExampleProject/ExampleProject/bin/Debug/netcoreapp2.0/ExampleProject.runtimeconfig.dev.json
+/Users/admin/Desktop/trendyol/server/ExampleProject/ExampleProject/bin/Debug/netcoreapp2.0/ExampleProject.dll
+/Users/admin/Desktop/trendyol/server/ExampleProject/ExampleProject/bin/Debug/netcoreapp2.0/ExampleProject.pdb
+/Users/admin/Desktop/trendyol/server/ExampleProject/ExampleProject/obj/Debug/netcoreapp2.0/ExampleProject.dll
+/Users/admin/Desktop/trendyol/server/ExampleProject/ExampleProject/obj/Debug/netcoreapp2.0/ExampleProject.pdb
